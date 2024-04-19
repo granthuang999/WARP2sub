@@ -1,11 +1,11 @@
 
 // 部署完成后在网址后面加上这个，获取订阅器默认节点，/auto
 
-let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
+let mytoken= ['feng8'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认987
 let addresses = [
-	//'engage.cloudflareclient.com:2408#WAPR官方直连',
+	'engage.cloudflareclient.com:2408#WAPR官方直连',
 	//'162.159.195.128:987#WARP',
 ];
 
