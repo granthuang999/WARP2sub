@@ -6,6 +6,8 @@ let mytoken= ['mywg'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认987
 let addresses = [
 	'engage.cloudflareclient.com:2408#WAPR官方直连',
+	'proxyip.us.fxxk.dedyn.io',
+	'cf.090227.xyz',
 	//'162.159.195.128:987#WARP',
 ];
 
